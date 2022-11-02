@@ -8,7 +8,7 @@
         "type": "object",
         "properties": {
             "dns": {
-                "$ref": "file:///Users/jathan/.nautobot/git/config_context_schemas/dns.json"
+                "$ref": "file:///Users/jathan/.nautobot/git/jathan/config_context_schemas/dns.json"
             }
         },
         "additionalProperties": false
